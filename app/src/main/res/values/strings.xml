@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Daniweb Provide Input Data To Workers</string>
+    <string name="button_start_worker">Start Worker</string>
+</resources>
